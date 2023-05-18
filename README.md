@@ -1,3 +1,8 @@
+![python_badge](https://img.shields.io/badge/python-v3.8-blue?style=flat&logo=python)
+![python_badge](https://img.shields.io/badge/numpy--blue?style=flat&logo=numpy)
+![python_badge](https://img.shields.io/badge/pandas--blue?style=flat&logo=pandas)
+![python_badge](https://img.shields.io/badge/machine_learning_Algorithms--blue?style=flat&logo=thealgorithms)
+![python_badge](https://img.shields.io/badge/Data_Analysis_and_Visualization--blue?style=flat&logo=python)
 # Acadamic_Machine_Learning_project
 In 2912, spaceship Titanic collided with a spacetime anomaly, transporting 50% of its 13,000 passengers to another dimension. Data from the damaged systems will be used to classify the affected individuals.
 
