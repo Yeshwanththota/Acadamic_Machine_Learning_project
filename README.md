@@ -1,4 +1,4 @@
-![python_badge](https://img.shields.io/badge/python-v3.8-blue?style=flat&logo=python)
+![python_badge](https://img.shields.io/badge/python--blue?style=flat&logo=python)
 ![python_badge](https://img.shields.io/badge/numpy--blue?style=flat&logo=numpy)
 ![python_badge](https://img.shields.io/badge/pandas--blue?style=flat&logo=pandas)
 ![python_badge](https://img.shields.io/badge/machine_learning_Algorithms--blue?style=flat&logo=thealgorithms)
